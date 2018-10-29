@@ -506,6 +506,7 @@
 * Clay McLeod http://blog.claymcleod.io/
 * Cocoa Is My Girlfriend http://www.cimgf.com/
 * Code with style! https://codewithstyle.info/
+* Coding Blocks https://www.codingblocks.net
 * Codrops https://tympanus.net/codrops/
 
 #### D individuals
